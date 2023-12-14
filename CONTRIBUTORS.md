@@ -568,7 +568,7 @@
 
 - [@Arx0X0](https://github.com/arx0x0/)
 
--[@Akshat6133](https://github.com/Akshat6133/)
+- [@Akshat6133](https://github.com/Akshat6133/)
 
 - [@Aryalanjewar3005](https://github.com/AryaLanjewar3005)
 
